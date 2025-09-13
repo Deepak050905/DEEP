@@ -1,0 +1,1 @@
+My design philosophy, simple, fast, and correct. In that order. We prototype quickly, we measure relentlessly, and we only add complexity when the data proves, beyond a shadow of a doubt, that it's necessary.

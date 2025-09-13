@@ -1,0 +1,1 @@
+Good morning. I'm a C++ developer and manager with over a decade of experience. Primarily in the pressure cooker of low-latency trading systems. My teams build software that measures its response time in nanoseconds.

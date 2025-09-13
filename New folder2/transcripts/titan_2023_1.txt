@@ -1,0 +1,1 @@
+Let's be clear, for seven years I was the front end department. The title was Lead Architect, but in reality I was the visionary. I designed and built our entire micro front end platform from scratch.

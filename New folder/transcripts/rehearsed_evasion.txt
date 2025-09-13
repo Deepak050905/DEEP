@@ -1,0 +1,1 @@
+As I always say, I handle the full life cycle. You know that line, right? I design, I implement, I ship. Well, I help design. I implement certain components. And I ship some features. The life cycle is a team thing. So when I say I handled it, I mean I handled part of it. It's cleaner to tell it like that.

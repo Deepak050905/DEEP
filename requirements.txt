@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+requests
+google-auth
+google-auth-httplib2
+google-cloud-storage
+google-cloud-speech
+python-dotenv
+whisper      
+streamlit
+pandas
+scikit-learn

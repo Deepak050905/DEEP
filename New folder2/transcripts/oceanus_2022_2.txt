@@ -1,0 +1,1 @@
+Performance is everything. We fight for every bite of memory in every clock cycle. That means custom memory allocators, kernel bypass networking, and a deep, almost obsessive understanding of CPU cache behavior.

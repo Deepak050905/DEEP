@@ -1,0 +1,1 @@
+I wrote all the business logic. He just provided some infrastructure shell. It was my implementation.
